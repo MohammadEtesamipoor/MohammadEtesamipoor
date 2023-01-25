@@ -24,3 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadetesamipoor&show_icons=true&locale=en" alt="mohammadetesamipoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadetesamipoor&" alt="mohammadetesamipoor" /></p>
+
+<div align="center">
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=MohammadEtesamipoor&theme=dracula" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEtesamipoor&langs_count=4&theme=dracula" />
+</div>
+
