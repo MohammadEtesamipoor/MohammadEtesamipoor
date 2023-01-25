@@ -16,17 +16,68 @@
 <a href="https://instagram.com/mohammadetesamipoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadetesamipoor" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+&nbsp;
+&nbsp;
+&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadetesamipoor&show_icons=true&locale=en&layout=compact" alt="mohammadetesamipoor" /></p>
+### Technologies I use:
+<p align="center">
+  <a target="_blank" href="https://javascript.info/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+      alt="JavaScript" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.w3schools.com/html/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://www.w3schools.com/css/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://reactjs.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://redux.js.org/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://jquery.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+      alt="jQuery" width="45" height="45" /></a>
+  <a target="_blank" href="https://sass-lang.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://material-ui.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+      alt="Material-UI" width="45" height="45" /></a>
+  <a target="_blank" href="https://getbootstrap.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="Bootstrap" width="45" height="45" /></a>
+  <a target="_blank" href="https://www.figma.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
+      width="45" height="45" /></a>
+      <a target="_blank" href="https://www.adobe.com/products/xd.html"><img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Adobe_Experience_Design_logo.svg" alt="Figma"
+      width="45" height="45" /></a>
+  <a target="_blank" href="https://tailwindcss.com/"><img
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://git-scm.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
+      height="45" /></a>
+  <a target="_blank" href="https://github.com/"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45"
+      height="45" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadetesamipoor&show_icons=true&locale=en" alt="mohammadetesamipoor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadetesamipoor&" alt="mohammadetesamipoor" /></p>
+---
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 <div align="center">
   <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=MohammadEtesamipoor&theme=dracula" />
   <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadEtesamipoor&langs_count=4&theme=dracula" />
 </div>
+
+
 
