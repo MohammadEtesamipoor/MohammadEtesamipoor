@@ -45,9 +45,6 @@
   <a target="_blank" href="https://sass-lang.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
       height="45" /></a>
-  <a target="_blank" href="https://material-ui.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
-      alt="Material-UI" width="45" height="45" /></a>
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
