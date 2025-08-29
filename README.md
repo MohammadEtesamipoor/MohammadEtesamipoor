@@ -72,9 +72,9 @@
 &nbsp;
 
 
-<div align="center">
-  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=MohammadEtesamipoor&theme=dracula" />
-</div>
+
+<!-- <div align="center">   <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=MohammadEtesamipoor&theme=dracula" /> -->
+<!-- </div> -->
 
 
 
