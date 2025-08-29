@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Etesamipoor</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A web developer</h3>
 <img align="right" alt="Coding..."  width="400" src="https://raw.githubusercontent.com/MohammadEtesamipoor/Online-Shop/master/src/Assets/Images/ezgif.com-gif-maker.gif">
 
 <p align="left"> <a href="https://twitter.com/etesamipor" target="blank"><img src="https://img.shields.io/twitter/follow/etesamipor?logo=twitter&style=for-the-badge" alt="etesamipor" /></a> </p>
 
-- 💬 Ask me about **react,JS**
 
 - 📫 How to reach me **mohammad.etesamipoor78@gmail.com**
 
@@ -25,6 +24,9 @@
   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
       alt="JavaScript" width="45" height="45" /></a>
+    <a target="_blank" href="https://github.com/"><img
+      src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" alt="github" width="45"
+      height="45" /></a>
   <a target="_blank" href="https://www.w3schools.com/html/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
       width="45" height="45" /></a>
